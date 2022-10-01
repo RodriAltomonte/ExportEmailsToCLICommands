@@ -1,7 +1,8 @@
 # GestionIosLaCaja
 
- print('\n------Instrucciones Generales de Uso------')
-    print('''
+------Instrucciones Generales de Uso------
+
+
     1- Subir el payload del mail
     2- Luego  agrega '*' en nueva linea para indicar el corte 
     3- Verificar la integridad de los datos, antes de agregarlo a la BD
